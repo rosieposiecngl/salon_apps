@@ -1,6 +1,7 @@
 # salon_apps
 
 A new Flutter project.
+Making simple salon apps to book with dart
 
 ## Getting Started
 
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## RESULT UI
+https://user-images.githubusercontent.com/72927218/201460433-6d9cd589-21c6-4eb5-b4d7-8f15e4db6c7d.mp4
+
